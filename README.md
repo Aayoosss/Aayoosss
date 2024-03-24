@@ -11,8 +11,8 @@
 
 ## 💮 Additional Insight into My Profile
 <p>🧠 I'm currently learning Machine Learning and Deep Learning.</p>
-<p>👩‍💻 Working on App Development</p>
-<p>📫 How to reach me? shivanisharma232005@gmail.com</p>
+<p>👩‍💻 Working on Data Analysis and Engineering</p>
+<p>📫 How to reach me? akumar.singh0881@gmail.com</p>
 
 ## 💻 Skills
 <p>
