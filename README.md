@@ -12,6 +12,7 @@
 ## 💮 Additional Insight into My Profile
 <p>🧠 I'm currently learning Machine Learning and Deep Learning.</p>
 <p>👩‍💻 Working on Data Analysis and Engineering</p>
+<p>Has a keen interest for understanding How's and Why's about concept</p>
 <p>📫 How to reach me? akumar.singh0881@gmail.com</p>
 
 ## 💻 Skills
